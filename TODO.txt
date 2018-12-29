@@ -1,0 +1,6 @@
+1) Write front-end data input interface for adding players, number of matches, and player preferences
+2) Allow for saving information to make input faster for recomputing
+3) More user input, expected opponent strengths and changing value of objectives, with base values if no input is provided
+4) Find a schedule for a half-played season
+5) Show multiple possible schedules to the user that are both near-optimal  
+6) Add more objectives as options, and implement toggles
